@@ -1,0 +1,17 @@
+p {
+    font-size: 28px;
+    color: aqua;
+}
+
+#intro {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+h1, p, .center {
+    color #888;
+    font-family: sans-serif;
+}
