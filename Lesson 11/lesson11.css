@@ -1,0 +1,38 @@
+.border {
+    text-align: center;
+    border: 3px double red;
+    border-radius: 10px;
+    margin: 15px; 
+    padding: 25px;
+}
+
+.background-color {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 17%, rgba(0,212,255,1) 100%); 
+    color: #fff;
+}
+
+.background-image-pattern {
+    background-image: url(./images.jpeg);
+    background-size: 20%;
+    background-repeat: repeat;
+    height: 55px;
+}
+
+.background-image {
+    background-image: url(./image.png);
+    height: 180px;
+    background-size: cover;
+    color: wheat;
+    background-position: center;
+}
+
+.background-image-parallax {
+    background-image: url(./image.png);
+    height: 80px;
+    background-size: cover;
+    background-size: 80%;
+    color: wheat;
+    background-attachment: fixed;
+}
+

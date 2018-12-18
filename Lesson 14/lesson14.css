@@ -1,0 +1,20 @@
+a:link {
+    color: #3468fa;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+a:visited {
+    color: red;
+    font-family: sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-family: serif;
+    font-size: -webkit-xxx-large;
+}
+
+a:active {
+    color: white;
+}

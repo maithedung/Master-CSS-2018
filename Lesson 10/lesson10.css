@@ -1,0 +1,5 @@
+.border {
+    text-align: center;
+    border: 2px double red;
+    border-radius: 10px;
+}
